@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/scenes/shooting.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Small Cave Kit/Cave kit Demo.unity
+  isLoaded: 1
+  isActive: 0
